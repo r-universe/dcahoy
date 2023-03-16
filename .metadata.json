@@ -1,0 +1,14 @@
+[
+  {
+    "package": "InvStablePrior",
+    "oncran": true
+  },
+  {
+    "package": "metabup",
+    "oncran": true
+  },
+  {
+    "package": "testequavar",
+    "oncran": true
+  }
+]
