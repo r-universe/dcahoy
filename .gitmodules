@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "InvStablePrior"]
 	path = InvStablePrior
 	url = https://github.com/dcahoy/invstableprior
-	shallow = true
-	registered = true
 [submodule "metabup"]
 	path = metabup
 	url = https://github.com/dcahoy/metabup
-	shallow = true
-	registered = true
 [submodule "testequavar"]
 	path = testequavar
 	url = https://github.com/dcahoy/testequavar
-	shallow = true
-	registered = true
